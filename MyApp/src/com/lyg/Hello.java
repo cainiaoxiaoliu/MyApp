@@ -8,5 +8,6 @@ import java.util.*;
 public class Hello {
     public static void main(String[] args){
         System.out.println("Hello World");
-    }
+    HashMap<String,String> map=new HashMap<String,String>(-2,0.75f);
+}
 }
